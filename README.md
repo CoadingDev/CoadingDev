@@ -47,15 +47,3 @@
   
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrisahil1&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-
-</div>
